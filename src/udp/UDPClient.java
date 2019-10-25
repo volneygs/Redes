@@ -40,5 +40,6 @@ class UDPClient {
 		clientSocket.close(); 
 		
 		inFromUser.close();
+		
     } 
 } 
